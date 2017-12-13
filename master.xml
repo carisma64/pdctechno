@@ -21,6 +21,13 @@
 <externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/telenovelas.xml</externallink>
 </item>
 <item>
+<title>Documentaries</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/documentals.xml</externallink>
+</item>
+<item>
 <title>[COLOR white][B]El Tieto eShow - El Chaval[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=V5de3XD-C3o</link>
 <thumbnail></thumbnail>
