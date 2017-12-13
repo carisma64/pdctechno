@@ -47,6 +47,13 @@
 <fanart></fanart>
 </item>
 <item>
+<title>Telenovelas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/telenovelas.xml</externallink>
+</item>
+<item>
 <title>[COLOR yellow][B]DISKOKOSMIKO-SERIES[/B][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
