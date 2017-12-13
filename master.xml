@@ -14,6 +14,13 @@
 <externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/music.xml</externallink>
 </item>
 <item>
+<title>Telenovelas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/telenovelas.xml</externallink>
+</item>
+<item>
 <title>[COLOR white][B]El Tieto eShow - El Chaval[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=V5de3XD-C3o</link>
 <thumbnail></thumbnail>
@@ -45,13 +52,6 @@
 <referer>http://www.shadow-net.org</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>Telenovelas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/carisma64/pdctechno/master/telenovelas.xml</externallink>
 </item>
 <item>
 <title>[COLOR yellow][B]DISKOKOSMIKO-SERIES[/B][/COLOR]</title>
